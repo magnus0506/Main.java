@@ -46,6 +46,5 @@ public class PizzaInfo
     {
     return "Nummer: " + nummer + "\nNavn: " + navn + "\nIngredienser: " + ingredienser + "\nAlm pris: " + almPris + "\nFamillie pris: " + familliePris;
     }
-
 }
 
